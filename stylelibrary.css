@@ -22,8 +22,8 @@ h1{
     height: 90%;
     padding: 15px;
     display: grid;
-    grid-template-columns: repeat(8, 15%);
-    grid-auto-rows: 10%;
+    grid-template-columns: repeat(7, 25%);
+    grid-auto-rows: 200px;
     font-weight: 600;
     font-size: 14px;
     border-radius: 10px;
